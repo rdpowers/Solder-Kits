@@ -1,4 +1,4 @@
-update=29/05/2018 3:06:33 PM
+update=4/06/2018 1:02:42 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=LocalLibrary
+LibName32=ws2812b
